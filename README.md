@@ -15,4 +15,8 @@ Floating Social Media Icon 4.1.2 - https://wordpress.org/plugins/floating-social
 
 Featured Video Plus 2.2.3 - https://wordpress.org/plugins/featured-video-plus/
 
+Optional plugin, if you want to add a contact form to your site:
+
+Contact form 7 - https://wordpress.org/plugins/contact-form-7/
+
 (Newer vresion of these plugins may work?)
