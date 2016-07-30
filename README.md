@@ -19,6 +19,7 @@ Optional plugin, if you want to add a contact form to your site:
 
 Contact form 7 - https://wordpress.org/plugins/contact-form-7/
 
-(Newer vresion of these plugins may work?)
-
 Demo site: https://wp.duvien.com
+
+A writeup on how to setup everything as a complete site with theme and plugins, see: https://duvien.com/blog/create-similar-website-duviencom-less-day-wordpress
+
