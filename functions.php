@@ -19,4 +19,18 @@ function remove_default_stylesheet() {
 
 }
 
+function pingraphy_setup() {
+	/*
+	 * Enable support for Post Thumbnails on posts and pages.
+	 *
+	 * @link http://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
+	 */
+	add_theme_support( 'post-thumbnails' );
+	add_image_size( 'pingraphy-child-large', 1250, 550, true );
+	add_image_size( 'pingraphy-home-thumbnail', 640, 440, true);
+	add_image_size( 'pingraphy-single-thumbnail', 810, 540, true );
+	add_image_size( 'pingraphy-ralated-thumbnail', 170, 170, true );
+	add_image_size( 'pingraphy-widget-thumbnail', 68, 68, true );
+}
+
 ?>
